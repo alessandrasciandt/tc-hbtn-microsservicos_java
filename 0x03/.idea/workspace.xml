@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="645da1f0-9626-43cd-8fa9-9456725e30f8" name="Changes" comment="0. Criando e configurando a aplicação Spring Boot JPA usando Spring Boot Initializr">
-      <change beforePath="$PROJECT_DIR$/criando_spring_boot_JPA/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/criando_spring_boot_JPA/application.properties" afterDir="false" />
+    <list default="true" id="645da1f0-9626-43cd-8fa9-9456725e30f8" name="Changes" comment="1. Empacotar a aplicação Spring Boot JPA em um JAR">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2D4f44xRrfqZYSp7OPtrMbD5Wdu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,11 +26,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/alessandras/ProjectJAVA/tc-hbtn-microsservicos_java/0x03"
+    "last_opened_file_path": "/home/alessandras/ProjectJAVA/tc-hbtn-microsservicos_java/0x04/JPA+H2_database/jpa-h2-demo"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/empacotar_aplicacao" />
       <recent name="$PROJECT_DIR$/criando_spring_boot_JPA" />
     </key>
   </component>
@@ -47,7 +51,42 @@
       <option name="project" value="LOCAL" />
       <updated>1659963592943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0. Criando e configurando a aplicação Spring Boot JPA usando Spring Boot Initializr">
+      <created>1659963838272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659963838272</updated>
+    </task>
+    <task id="LOCAL-00003" summary="0. Criando e configurando a aplicação Spring Boot JPA usando Spring Boot Initializr">
+      <created>1659964403461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659964403461</updated>
+    </task>
+    <task id="LOCAL-00004" summary="0. Criando e configurando a aplicação Spring Boot JPA usando Spring Boot Initializr">
+      <created>1659965256824</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659965256824</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1. Empacotar a aplicação Spring Boot JPA em um JAR">
+      <created>1659966222057</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659966222057</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1. Empacotar a aplicação Spring Boot JPA em um JAR">
+      <created>1659966316320</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659966316320</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0. Criando e configurando a aplicação Spring Boot JPA usando Spring Boot Initializr" />
-    <option name="LAST_COMMIT_MESSAGE" value="0. Criando e configurando a aplicação Spring Boot JPA usando Spring Boot Initializr" />
+    <MESSAGE value="1. Empacotar a aplicação Spring Boot JPA em um JAR" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Empacotar a aplicação Spring Boot JPA em um JAR" />
   </component>
 </project>
