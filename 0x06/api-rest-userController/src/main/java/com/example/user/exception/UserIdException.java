@@ -1,4 +1,4 @@
-package com.example.user.exception;
+package exception;
 
 public class UserIdException extends RuntimeException{
     public UserIdException(String s){

@@ -1,9 +1,9 @@
-package com.example.user.exception;
+package exception;
 
 import com.example.user.exception.CPFException;
-import com.example.user.exception.UserErrorResponse;
+import exception.UserErrorResponse;
 import com.example.user.exception.UserIdException;
-import com.example.user.exception.UserNameException;
+import exception.UserNameException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
